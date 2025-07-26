@@ -21,3 +21,6 @@ This is an end-to-end Data Analytics project analyzing retail sales data using E
 ## 🔍 Purpose:
 This project demonstrates data cleaning, transformation, querying, and visualization skills in a retail business context. It's a part of my internship preparation portfolio.
 
+## 🖼️ Dashboard Preview:
+
+![Retail Sales Dashboard](Retail_sales.png)
